@@ -43,7 +43,7 @@
 #     print(dana)
 
 
-# print(1) 
+# # print(1) 
 
 # for num in range(1,101): 
 #     print (num) 

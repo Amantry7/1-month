@@ -1,7 +1,7 @@
 
-# namelist = ["Nurboll","Nurai","Aman","Erbol", "Yryskeldi"]   
-# print(name    list[1:4]) 
-# print(type(namelist)) 
+namelist = ["Nurboll","Nurai","Aman","Erbol", "Yryskeldi"]   
+print(namelist[1:4]) 
+print(type(namelist)) 
 
 # namelist.append("Geeks") 
 # print(namelist) 
